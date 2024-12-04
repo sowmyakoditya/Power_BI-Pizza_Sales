@@ -1,10 +1,10 @@
-# Power BI Pizza Sales Project
+# Pizza Sales Data Analysis - Power BI Dashboard (Jan 2015 to Dec 2015)
 
-## Problem Statement
+## Project Overview:
 
-### KPI's Requirement
+This project focuses on analyzing pizza sales data using Power BI to gain valuable business insights. The dashboard presents key performance indicators (KPIs) for the year 2015, helping stakeholders understand sales trends and make data-driven decisions.
 
-Analyzing key indicators for Pizza Sales data to gain insights. Specifically, Calculating the follwoing metrics:
+### Key Metrics Calculated:
 
 1. **Total Revenue:** The Sum of the total price of all pizza orders.
 2. **Average Order Value:** The avaerage amount spent per order, calculated by dividing the total revenue by the total number of orders.
