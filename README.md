@@ -1,8 +1,8 @@
 # Power BI Pizza Sales Project
 
-# Problem Statement
+## Problem Statement
 
-# KPI's Requirement
+### KPI's Requirement
 
 Analyzing key indicators for Pizza Sales data to gain insights. Specifically, Calculating the follwoing metrics:
 
